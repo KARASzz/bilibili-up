@@ -1,0 +1,21 @@
+# Python 字节码
+__pycache__/
+*.py[cod]
+
+# 构建产物
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 工具缓存
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# 密钥：绝不提交
+.env
