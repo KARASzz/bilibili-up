@@ -1,4 +1,5 @@
 # Scrapy Cloud 部署依赖，版本与本地 .venv 对齐
+python-dotenv==1.2.3
 scrapy==2.19.0
 scrapy-poet==0.27.2
 scrapy-zyte-api==0.36.0
