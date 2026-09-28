@@ -1,2 +1,0 @@
-[scrapy]
-settings = bilibili_up.settings
